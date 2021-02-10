@@ -1,0 +1,13 @@
+* {
+    height: auto;
+    width: 1600px;
+    font-family: fantasy;
+    background-color: black;
+    color: whitesmoke;
+}
+
+.header-page-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
